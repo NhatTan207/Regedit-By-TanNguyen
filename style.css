@@ -1,0 +1,43 @@
+div.div{
+    color: rgb(0, 0, 0);
+    height: px;
+    height: px;
+    background-color: blueviolet ;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#Contact{
+    text-align: end;
+}
+.Tan:hover{
+    color: red;
+    font-size: 50px;
+
+}
+[href="#1"]:hover,[href="#2"]:hover,[href="#3"]:hover{
+    color: black;
+}
+pre.TanNguyen:hover{
+    color:blue
+}
+div.contact_bio{
+    height: 30px;
+    width: 350px;
+    background-color: rgb(222, 126, 126);
+    text-align: center;
+    font-size: 24px;
+}
+a#ct1:hover, a#ct2:hover, #ct1:link{
+    color: red;
+}
+#ct1:visited{
+    color:chocolate
+}
+div.gt1{
+    font-size: 50px;
+    color:black;
+    width: ;
+    height: ;
+    text-align: center;
+}
